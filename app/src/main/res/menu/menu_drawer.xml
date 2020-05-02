@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/navOptionI"
+            android:icon="@drawable/baseline_account_circle_black_18dp"
+            android:title="@string/textNews" />
+        <item
+            android:id="@+id/navOptionII"
+            android:icon="@drawable/baseline_build_black_18dp"
+            android:title="@string/textGallery" />
+        <item
+            android:id="@+id/navOptionIII"
+            android:icon="@drawable/baseline_visibility_black_18dp"
+            android:title="@string/textRegister" />
+    </group>
+
+
+
+</menu>

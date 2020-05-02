@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MenuLateral2</string>
+    <string name="textNews">Mi perfil</string>
+    <string name="textGallery">Configurar</string>
+    <string name="textRegister">Visualizar</string>
+
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+</resources>
